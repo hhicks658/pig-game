@@ -11,9 +11,17 @@ a dice to earn points. The goal is to be the first player to reach the winning s
 
 
 *players choose to roll or hold during their turn.
-*rolling adds points unless a 1 is rolled 
-*rolling a 1 ends the turnn and removes turn points
+
+
+
+*rolling adds points unless a 1 is rolled.
+
+*rolling a 1 ends the turnn and removes turn points.
+
+
 *holding saves points and ends the turn.
+
+
 *first player nto reach the winning score wins 
 
 ##Requirements
